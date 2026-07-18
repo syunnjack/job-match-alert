@@ -8,7 +8,7 @@ Recommended repository name: `job-match-alert`
 
 ## Domain candidates
 
-First candidate: `jobmatchalert.jp`
+Confirmed domain: `jobmatchalert.jp`
 
 Other candidates:
 

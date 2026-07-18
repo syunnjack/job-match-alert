@@ -1,0 +1,7 @@
+# Job Match Alert
+
+条件一致求人、新着、締切、面接枠を通知し、採用成果報酬と掲載課金へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 採用成果報酬, 掲載課金, 面接予約, スカウト課金, 広告
+Primary categories: 新着求人, 条件一致, 締切, 面接, 副業

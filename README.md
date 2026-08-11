@@ -2,17 +2,20 @@
 
 求人新着・条件一致通知
 
-## Repository
+## Web
 
-Recommended repository name: `job-match-alert`
+- GitHub Pages: https://syunnjack.github.io/job-match-alert/
+- Build command: `npm run build`
+- Build output: `dist`
+
+`main` ブランチへの反映後、GitHub Actions が lint、build、GitHub Pages へのデプロイを実行します。
 
 ## Domain candidates
 
-Confirmed domain: `jobmatchalert.jp`
+Future custom domain: `jobmatchalert.jp`
 
 Other candidates:
 
-- `jobmatchalert.jp`
 - `jobping.jp`
 - `kyujinalert.jp`
 - `workmatch.jp`

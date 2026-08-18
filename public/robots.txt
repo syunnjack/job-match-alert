@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://job-match-alert.vercel.app/sitemap.xml
+Sitemap: https://jobmatchalert.jp/sitemap.xml

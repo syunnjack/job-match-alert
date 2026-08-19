@@ -1,7 +1,4 @@
-# Job Match Alert
+# jobmatchalert.jp
 
-条件一致求人、新着、締切、面接枠を通知し、採用成果報酬と掲載課金へつなげる。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 採用成果報酬, 掲載課金, 面接予約, スカウト課金, 広告
-Primary categories: 新着求人, 条件一致, 締切, 面接, 副業
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
